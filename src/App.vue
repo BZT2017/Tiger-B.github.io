@@ -12,6 +12,13 @@
 </script>
 
 <style>
+  * {
+    margin: 0;
+    padding: 0;
+  }
+  html {
+    background-color: #222;
+  }
   #app {
     font-family: 'Avenir', Helvetica, Arial, sans-serif;
     -webkit-font-smoothing: antialiased;
